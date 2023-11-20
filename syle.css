@@ -1,0 +1,40 @@
+*{
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  
+  .cadastro{
+    background-color: darkgray;
+    border-radius:30px;
+    box-shadow: 12px 12px 22px grey;
+  }
+  img{
+    border-top-left-radius: 30;
+    border-bottom-left-radius: 30;
+  }
+  h1{
+    
+    color: white;
+  }
+  h4{
+    color: white;
+  }
+  .btn1{
+    border: none;
+    outline: none;
+    height: 50px; 
+    width: 100%;
+    background-color: gray;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  .btn1:hover{
+    background: lightgray ;
+    border: 1px solid ;
+    color: black;
+  }
+  .img-fluid{
+    margin-top: 190px;
+  }
